@@ -37,7 +37,7 @@
 
 ![Bash](https://img.shields.io/badge/bash-4d4d4d?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/c-00599c?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=c++&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-00add8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ed8b00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670a0?style=for-the-badge&logo=python&logoColor=ffdd54)
