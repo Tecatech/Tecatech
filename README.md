@@ -26,7 +26,7 @@
 
 ![Android](https://img.shields.io/badge/android-3ddc84?style=for-the-badge&logo=android&logoColor=white)
 ![CentOS](https://img.shields.io/badge/centos-002260?style=for-the-badge&logo=centos&logoColor=f0f0f0)
-![Debian](https://img.shields.io/badge/Debian-d70a53?style=for-the-badge&logo=debian&logoColor=white)
+![Debian](https://img.shields.io/badge/debian-d70a53?style=for-the-badge&logo=debian&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/kali%20linux-268bee?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-fcc624?style=for-the-badge&logo=linux&logoColor=black)
 ![Red Hat Enterprise Linux](https://img.shields.io/badge/red%20hat%20enterprise%20linux-ee0000?style=for-the-badge&logo=redhat&logoColor=white)
@@ -37,14 +37,14 @@
 
 ![Bash](https://img.shields.io/badge/bash-4d4d4d?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/c-00599c?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=c++&logoColor=white)
 ![Go](https://img.shields.io/badge/go-00add8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ed8b00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670a0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## ⚡ GitHub Stats
 
-![Tecatech Github Stats](https://github-readme-stats.vercel.app/api?username=tecatech&show_icons=true&theme=merko)
+![Tecatech GitHub Stats](https://github-readme-stats.vercel.app/api?username=tecatech&show_icons=true&theme=merko)
 
 ## 🔥 GitHub Streak Stats
 
