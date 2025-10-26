@@ -4,10 +4,10 @@
 
 ## 💬 About
 
-* **Enthusiastic, hard-working, and self-motivated Security Researcher, able to manage a diverse workload and troubleshoot a wide range of technical issues.**
+* **Enthusiastic, hard-working, and self-motivated security researcher, able to manage a diverse workload and troubleshoot a wide range of technical issues.**
 * **I have experience implementing and applying a variety of reverse engineering solutions for embedded operating systems in the areas of connectivity, data processing, and security analysis.**
 * **Possess strong verbal and written communication skills.**
-* **I am seeking a Security Researcher position to apply my instructional leadership abilities.**
+* **I am seeking a security researcher position to apply my instructional leadership abilities.**
 
 ## 🤖 Tools and Technologies
 
@@ -55,7 +55,6 @@
 ![Tecatech GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=tecatech&layout=compact&theme=algolia)
 
 ## 📈 GitHub Activity Graph
-
 ![Tecatech GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tecatech&theme=merko)
 
 ## 📱 Contact Info
