@@ -6,6 +6,7 @@
 
 * **Enthusiastic, hard-working, and self-motivated security researcher, able to manage a diverse workload and troubleshoot a wide range of technical issues.**
 * **I have experience implementing and applying a variety of reverse engineering solutions for embedded operating systems in the areas of connectivity, data processing, and security analysis.**
+* **Led application security initiatives, conducting fuzz testing of the OS kernel and performing in-depth penetration testing for a major enterprise-level operating system.**
 * **Possess strong verbal and written communication skills.**
 * **I am seeking a security researcher position to apply my instructional leadership abilities.**
 
